@@ -1,0 +1,11 @@
+too much to write, re-watch videos if needed
+
+mainpoints:
+MAKE SURE YOUR FILES ARE IN THE RIGHT FOLDERS AND THE CODE HAS THE RIGHT FILE PATH
+images go in the static folder
+css goes in the static folder
+index.html goes in the template folder
+
+i can utilize website templates to cut down on work (html5up.net for templates and unsplashed for images)
+document.body.contenteditable=true
+^if using this, save the html data and replace otherwise it wont save
